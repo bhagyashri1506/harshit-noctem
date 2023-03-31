@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/harshit-noctem/static/js/runtime~main.a13657fd.js"
   },
   {
-    "revision": "d13db1fed3945c3b8c3293bfcfadb32f",
-    "url": "/harshit-noctem/static/media/Helvetica-Bold.d13db1fe.ttf"
-  },
-  {
     "revision": "1b580d980532792578c54897ca387e2c",
     "url": "/harshit-noctem/static/media/Helvetica 400.1b580d98.ttf"
+  },
+  {
+    "revision": "d13db1fed3945c3b8c3293bfcfadb32f",
+    "url": "/harshit-noctem/static/media/Helvetica-Bold.d13db1fe.ttf"
   },
   {
     "revision": "47fb372c5e2d5861921e6f4bad10d1f2",
