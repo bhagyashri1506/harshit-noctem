@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f9b792bfd6094ad64a40",
-    "url": "/harshit-noctem/static/css/main.76c9af42.chunk.css"
+    "revision": "ae9564dcc28886d6a3df",
+    "url": "/harshit-noctem/static/css/main.0c47085a.chunk.css"
   },
   {
-    "revision": "f9b792bfd6094ad64a40",
-    "url": "/harshit-noctem/static/js/main.f9b792bf.chunk.js"
+    "revision": "ae9564dcc28886d6a3df",
+    "url": "/harshit-noctem/static/js/main.ae9564dc.chunk.js"
   },
   {
     "revision": "570b815a7df84e3deeb0",
@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/harshit-noctem/static/js/runtime~main.a13657fd.js"
   },
   {
-    "revision": "1b580d980532792578c54897ca387e2c",
-    "url": "/harshit-noctem/static/media/Helvetica 400.1b580d98.ttf"
-  },
-  {
     "revision": "d13db1fed3945c3b8c3293bfcfadb32f",
     "url": "/harshit-noctem/static/media/Helvetica-Bold.d13db1fe.ttf"
+  },
+  {
+    "revision": "1b580d980532792578c54897ca387e2c",
+    "url": "/harshit-noctem/static/media/Helvetica 400.1b580d98.ttf"
   },
   {
     "revision": "47fb372c5e2d5861921e6f4bad10d1f2",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/harshit-noctem/static/media/workshop.f63f9719.png"
   },
   {
-    "revision": "2b0fcfc245bc2f6ca81f9a077f5d8c6f",
+    "revision": "2c8045d173e0a17cd72b2c26220f6f75",
     "url": "/harshit-noctem/index.html"
   }
 ];
