@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/harshit-noctem/precache-manifest.a84103930c647ba3c9ff41fc6724fdf2.js"
+  "/harshit-noctem/precache-manifest.585209735682ffabd2e34373dcadb8cc.js"
 );
 
 workbox.clientsClaim();
