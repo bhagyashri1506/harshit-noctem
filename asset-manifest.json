@@ -1,7 +1,7 @@
 {
-  "main.css": "/harshit-noctem/static/css/main.621fce17.chunk.css",
-  "main.js": "/harshit-noctem/static/js/main.bb8f1711.chunk.js",
-  "main.js.map": "/harshit-noctem/static/js/main.bb8f1711.chunk.js.map",
+  "main.css": "/harshit-noctem/static/css/main.b20bff16.chunk.css",
+  "main.js": "/harshit-noctem/static/js/main.da1966b1.chunk.js",
+  "main.js.map": "/harshit-noctem/static/js/main.da1966b1.chunk.js.map",
   "static/js/1.7f24ffd5.chunk.js": "/harshit-noctem/static/js/1.7f24ffd5.chunk.js",
   "static/js/1.7f24ffd5.chunk.js.map": "/harshit-noctem/static/js/1.7f24ffd5.chunk.js.map",
   "runtime~main.js": "/harshit-noctem/static/js/runtime~main.a13657fd.js",
@@ -16,8 +16,8 @@
   "static/media/second.mp4": "/harshit-noctem/static/media/second.0e76712b.mp4",
   "static/media/third.mp4": "/harshit-noctem/static/media/third.0034f68b.mp4",
   "static/media/workshop.png": "/harshit-noctem/static/media/workshop.f63f9719.png",
-  "static/css/main.621fce17.chunk.css.map": "/harshit-noctem/static/css/main.621fce17.chunk.css.map",
+  "static/css/main.b20bff16.chunk.css.map": "/harshit-noctem/static/css/main.b20bff16.chunk.css.map",
   "index.html": "/harshit-noctem/index.html",
-  "precache-manifest.585209735682ffabd2e34373dcadb8cc.js": "/harshit-noctem/precache-manifest.585209735682ffabd2e34373dcadb8cc.js",
+  "precache-manifest.7ef69321e4635db1f339213acf4d58c3.js": "/harshit-noctem/precache-manifest.7ef69321e4635db1f339213acf4d58c3.js",
   "service-worker.js": "/harshit-noctem/service-worker.js"
 }
